@@ -16,7 +16,7 @@ def main():
     for val in vals:
         fmtr += str(pixel)
         fmtr += ','
-    print(star + ']')
+    print(fmtr + ']')
 
 if __name__ == "__main__":
     main()
